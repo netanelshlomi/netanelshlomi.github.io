@@ -1,0 +1,43 @@
+h4 {
+	text-transform: uppercase;
+	color: #3498db;
+	/*word-spacing: 1.5em;*/
+	letter-spacing: 5px;
+	/*margin-left: 10px;*/
+	margin-left: 15px;
+	font-family: "source sans pro" , "sans-serif";
+}
+
+h2 {
+	margin-left: 15px;
+	font-family: "source sans pro" , "sans-serif";
+	font-weight: 700;
+	color: #2c3e50;
+}
+
+ .first {
+	margin-left: 15px;
+	margin-right: 15px;
+	border-left: 5px solid #bdc3c7;
+}
+
+p { 
+font-family: "source sans pro", "sans-serif";
+font-weight: 600;
+margin-left: 15px;
+	margin-right: 15px;
+ }
+
+ body {
+ 	border:23px solid #bdc3c7;
+ 	margin-left: 20%;
+ 	margin-right: 20%;
+ }
+
+ hr {
+ 	margin: 0 20%; 
+ 	opacity: 0.6;
+ 	/*height: 2px;*/
+ 	/*overflow: visible;*/
+
+ }
